@@ -1,0 +1,1 @@
+This program allows the user to easily convert shapefiles into Google Earth KMLs. It is built using Python 2.6.4 and SpatiaLite 2.3.1. The msi installer was created using Advanced Installer.

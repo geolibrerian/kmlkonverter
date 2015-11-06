@@ -1,0 +1,1 @@
+I see that I was premature with this very alpha installer. I'll fix it by Monday 1/11/10.
